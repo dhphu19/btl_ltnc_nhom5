@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package UI;
+package GiaoDienNguoiDung;
 
 /**
  *
@@ -20,6 +20,8 @@ public class BTL_LTNC_Nhom5 {
         
         
         // dfhsdkjfhlsdkjfhkdsj
+        
+        // hello THịnh lol
         
         
         

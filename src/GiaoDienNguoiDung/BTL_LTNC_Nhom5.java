@@ -21,7 +21,7 @@ public class BTL_LTNC_Nhom5 {
         
         // dfhsdkjfhlsdkjfhkdsj
         
-        // hello THịnh lol
+        // chó đưc 
         
         
         

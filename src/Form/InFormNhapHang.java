@@ -9,12 +9,12 @@ package Form;
  *
  * @author ADMIN
  */
-public class Phieu_nhap_hang extends javax.swing.JInternalFrame {
+public class InFormNhapHang extends javax.swing.JInternalFrame {
 
     /**
      * Creates new form NewJInternalFrame
      */
-    public Phieu_nhap_hang() {
+    public InFormNhapHang() {
         initComponents();
     }
 
